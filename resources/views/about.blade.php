@@ -29,7 +29,7 @@
 
       <!-- Social Links -->
       <div class="flex space-x-4 mt-6">
-        <a href="#" class="text-gray-600 hover:text-gray-900">
+        <a href="https://github.com/Zeinkunn" class="text-gray-600 hover:text-gray-900">
           <i class="fab fa-github"></i>
         </a>
         <a href="#" class="text-gray-600 hover:text-gray-900">
