@@ -4,10 +4,7 @@
 </a>
 </p>
 
-<p align="centre">
-<a style="font-size:14px;">Inventory Management App</a>
-</p>
-
+## Inventory Management App
 ## About This Project
 
 This Project was created to fullied assigment of RPL (Rekayasa  Perangkat Lunak) at Nahdlatul Ulama Al-Ghazali University.
